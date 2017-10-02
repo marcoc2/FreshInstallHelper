@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#Put this file on /usr/bin
+
+if [ -e /usr/share/work-mode-lock ]
+then
+    cp -f /etc/hosts-backup /etc/hosts
+    copyResult=$?
+    rm -f /usr/share/work-mode-lock
+    if [ $copyResult -eq 0 ]
+    then
+        echo "Unblocked with success"
+    else
+        echo "Unblocked. Failed recovering hosts backup file"
+    fi
+else
+    echo "Not blocked"
+fi

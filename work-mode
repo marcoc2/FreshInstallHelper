@@ -1,0 +1,23 @@
+#!/bin/bash
+
+#Put this file on /usr/bin
+
+if [ -e /usr/share/work-mode-lock ]
+then
+    echo "Already in work-mode"
+else
+    touch /usr/share/work-mode-lock
+    cp -f /etc/hosts /etc/hosts-backup
+    copyResult=$?
+    if [ $copyResult -eq 0 ]
+    then
+        echo "127.0.0.1 facebook.com" >> /etc/hosts
+        echo "127.0.0.1 www.facebook.com" >> /etc/hosts
+        echo "127.0.0.1 web.facebook.com" >> /etc/hosts
+        echo "127.0.0.1 tweetdeck.twitter.com" >> /etc/hosts
+        echo "127.0.0.1 reddit.com" >> /etc/hosts
+        echo "Work mode inicialized with"
+    else
+        echo "Error making backup of hosts file. Operation failed."
+    fi
+fi
