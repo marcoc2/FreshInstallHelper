@@ -1,0 +1,1677 @@
+Qua Out  4 02:27:20 BRT 2017
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+build-essential is already the newest version (12.1ubuntu2).
+build-essential set to manually installed.
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-gobject python-ibus python-libxml2 python-notify
+  python-pexpect python-ptyprocess python-renderpm python-reportlab
+  python-reportlab-accel python-requests python-smbc python3-checkbox-ng
+  qml-module-qtquick-dialogs qml-module-qtquick-localstorage
+  qml-module-qtquick-privatewidgets qml-module-ubuntu-ui-extras-browser
+  qtdeclarative5-dialogs-plugin qtdeclarative5-localstorage-plugin
+  qtdeclarative5-privatewidgets-plugin qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 4 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-gobject python-ibus python-libxml2 python-notify
+  python-pexpect python-ptyprocess python-renderpm python-reportlab
+  python-reportlab-accel python-requests python-smbc python3-checkbox-ng
+  qml-module-qtquick-dialogs qml-module-qtquick-localstorage
+  qml-module-qtquick-privatewidgets qml-module-ubuntu-ui-extras-browser
+  qtdeclarative5-dialogs-plugin qtdeclarative5-localstorage-plugin
+  qtdeclarative5-privatewidgets-plugin qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+Suggested packages:
+  p7zip-full
+The following NEW packages will be installed:
+  p7zip rar unrar
+0 upgraded, 3 newly installed, 0 to remove and 4 not upgraded.
+Need to get 1.017 kB of archives.
+After this operation, 2.968 kB of additional disk space will be used.
+Get:1 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 p7zip amd64 9.20.1~dfsg.1-4.2 [307 kB]
+Get:2 http://br.archive.ubuntu.com/ubuntu xenial/multiverse amd64 rar amd64 2:5.3.b2-1 [587 kB]
+Get:3 http://br.archive.ubuntu.com/ubuntu xenial/multiverse amd64 unrar amd64 1:5.3.2-1 [123 kB]
+Fetched 1.017 kB in 0s (2.717 kB/s)
+Selecting previously unselected package p7zip.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 330905 files and directories currently installed.)
+Preparing to unpack .../p7zip_9.20.1~dfsg.1-4.2_amd64.deb ...
+Unpacking p7zip (9.20.1~dfsg.1-4.2) ...
+Selecting previously unselected package rar.
+Preparing to unpack .../rar_2%3a5.3.b2-1_amd64.deb ...
+Unpacking rar (2:5.3.b2-1) ...
+Selecting previously unselected package unrar.
+Preparing to unpack .../unrar_1%3a5.3.2-1_amd64.deb ...
+Unpacking unrar (1:5.3.2-1) ...
+Processing triggers for man-db (2.7.5-1) ...
+Setting up p7zip (9.20.1~dfsg.1-4.2) ...
+Setting up rar (2:5.3.b2-1) ...
+Setting up unrar (1:5.3.2-1) ...
+update-alternatives: using /usr/bin/unrar-nonfree to provide /usr/bin/unrar (unrar) in auto mode
+Reading package lists...
+Building dependency tree...
+Reading state information...
+gparted is already the newest version (0.25.0-1).
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-gobject python-ibus python-libxml2 python-notify
+  python-pexpect python-ptyprocess python-renderpm python-reportlab
+  python-reportlab-accel python-requests python-smbc python3-checkbox-ng
+  qml-module-qtquick-dialogs qml-module-qtquick-localstorage
+  qml-module-qtquick-privatewidgets qml-module-ubuntu-ui-extras-browser
+  qtdeclarative5-dialogs-plugin qtdeclarative5-localstorage-plugin
+  qtdeclarative5-privatewidgets-plugin qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 4 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-gobject python-ibus python-libxml2 python-notify
+  python-pexpect python-ptyprocess python-renderpm python-reportlab
+  python-reportlab-accel python-requests python-smbc python3-checkbox-ng
+  qml-module-qtquick-dialogs qml-module-qtquick-localstorage
+  qml-module-qtquick-privatewidgets qml-module-ubuntu-ui-extras-browser
+  qtdeclarative5-dialogs-plugin qtdeclarative5-localstorage-plugin
+  qtdeclarative5-privatewidgets-plugin qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  gimp-data libamd2.4.1 libbabl-0.1-0 libblas-common libblas3 libcamd2.4.1
+  libccolamd2.9.1 libcholmod3.0.6 libgegl-0.3-0 libgfortran3 libgimp2.0
+  liblapack3 libsdl1.2debian libumfpack5.7.1
+Suggested packages:
+  gimp-help-en | gimp-help gimp-data-extras
+The following NEW packages will be installed:
+  gimp gimp-data libamd2.4.1 libbabl-0.1-0 libblas-common libblas3
+  libcamd2.4.1 libccolamd2.9.1 libcholmod3.0.6 libgegl-0.3-0 libgfortran3
+  libgimp2.0 liblapack3 libsdl1.2debian libumfpack5.7.1
+0 upgraded, 15 newly installed, 0 to remove and 4 not upgraded.
+Need to get 16,4 MB of archives.
+After this operation, 87,8 MB of additional disk space will be used.
+Get:1 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libgimp2.0 amd64 2.8.16-1ubuntu1.1 [775 kB]
+Get:2 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 gimp-data all 2.8.16-1ubuntu1.1 [7.712 kB]
+Get:3 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libbabl-0.1-0 amd64 0.1.16-1 [248 kB]
+Get:4 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libsdl1.2debian amd64 1.2.15+dfsg1-3 [168 kB]
+Get:5 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libamd2.4.1 amd64 1:4.4.6-1 [21,3 kB]
+Get:6 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libblas-common amd64 3.6.0-2ubuntu2 [5.342 B]
+Get:7 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libblas3 amd64 3.6.0-2ubuntu2 [147 kB]
+Get:8 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libcamd2.4.1 amd64 1:4.4.6-1 [20,0 kB]
+Get:9 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libccolamd2.9.1 amd64 1:4.4.6-1 [21,5 kB]
+Get:10 http://br.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgfortran3 amd64 5.4.0-6ubuntu1~16.04.4 [260 kB]
+Get:11 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 liblapack3 amd64 3.6.0-2ubuntu2 [1.938 kB]
+Get:12 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libcholmod3.0.6 amd64 1:4.4.6-1 [293 kB]
+Get:13 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libumfpack5.7.1 amd64 1:4.4.6-1 [223 kB]
+Get:14 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgegl-0.3-0 amd64 0.3.4-1ubuntu2 [1.049 kB]
+Get:15 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 gimp amd64 2.8.16-1ubuntu1.1 [3.473 kB]
+Fetched 16,4 MB in 3s (4.823 kB/s)
+Selecting previously unselected package libgimp2.0.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 330986 files and directories currently installed.)
+Preparing to unpack .../libgimp2.0_2.8.16-1ubuntu1.1_amd64.deb ...
+Unpacking libgimp2.0 (2.8.16-1ubuntu1.1) ...
+Selecting previously unselected package gimp-data.
+Preparing to unpack .../gimp-data_2.8.16-1ubuntu1.1_all.deb ...
+Unpacking gimp-data (2.8.16-1ubuntu1.1) ...
+Selecting previously unselected package libbabl-0.1-0:amd64.
+Preparing to unpack .../libbabl-0.1-0_0.1.16-1_amd64.deb ...
+Unpacking libbabl-0.1-0:amd64 (0.1.16-1) ...
+Selecting previously unselected package libsdl1.2debian:amd64.
+Preparing to unpack .../libsdl1.2debian_1.2.15+dfsg1-3_amd64.deb ...
+Unpacking libsdl1.2debian:amd64 (1.2.15+dfsg1-3) ...
+Selecting previously unselected package libamd2.4.1:amd64.
+Preparing to unpack .../libamd2.4.1_1%3a4.4.6-1_amd64.deb ...
+Unpacking libamd2.4.1:amd64 (1:4.4.6-1) ...
+Selecting previously unselected package libblas-common.
+Preparing to unpack .../libblas-common_3.6.0-2ubuntu2_amd64.deb ...
+Unpacking libblas-common (3.6.0-2ubuntu2) ...
+Selecting previously unselected package libblas3.
+Preparing to unpack .../libblas3_3.6.0-2ubuntu2_amd64.deb ...
+Unpacking libblas3 (3.6.0-2ubuntu2) ...
+Selecting previously unselected package libcamd2.4.1:amd64.
+Preparing to unpack .../libcamd2.4.1_1%3a4.4.6-1_amd64.deb ...
+Unpacking libcamd2.4.1:amd64 (1:4.4.6-1) ...
+Selecting previously unselected package libccolamd2.9.1:amd64.
+Preparing to unpack .../libccolamd2.9.1_1%3a4.4.6-1_amd64.deb ...
+Unpacking libccolamd2.9.1:amd64 (1:4.4.6-1) ...
+Selecting previously unselected package libgfortran3:amd64.
+Preparing to unpack .../libgfortran3_5.4.0-6ubuntu1~16.04.4_amd64.deb ...
+Unpacking libgfortran3:amd64 (5.4.0-6ubuntu1~16.04.4) ...
+Selecting previously unselected package liblapack3.
+Preparing to unpack .../liblapack3_3.6.0-2ubuntu2_amd64.deb ...
+Unpacking liblapack3 (3.6.0-2ubuntu2) ...
+Selecting previously unselected package libcholmod3.0.6:amd64.
+Preparing to unpack .../libcholmod3.0.6_1%3a4.4.6-1_amd64.deb ...
+Unpacking libcholmod3.0.6:amd64 (1:4.4.6-1) ...
+Selecting previously unselected package libumfpack5.7.1:amd64.
+Preparing to unpack .../libumfpack5.7.1_1%3a4.4.6-1_amd64.deb ...
+Unpacking libumfpack5.7.1:amd64 (1:4.4.6-1) ...
+Selecting previously unselected package libgegl-0.3-0:amd64.
+Preparing to unpack .../libgegl-0.3-0_0.3.4-1ubuntu2_amd64.deb ...
+Unpacking libgegl-0.3-0:amd64 (0.3.4-1ubuntu2) ...
+Selecting previously unselected package gimp.
+Preparing to unpack .../gimp_2.8.16-1ubuntu1.1_amd64.deb ...
+Unpacking gimp (2.8.16-1ubuntu1.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Processing triggers for hicolor-icon-theme (0.15-0ubuntu1) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for gnome-menus (3.13.3-6ubuntu3.1) ...
+Processing triggers for desktop-file-utils (0.22-1ubuntu5.1) ...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Processing triggers for bamfdaemon (0.5.3~bzr0+16.04.20160824-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Setting up libgimp2.0 (2.8.16-1ubuntu1.1) ...
+Setting up gimp-data (2.8.16-1ubuntu1.1) ...
+Setting up libbabl-0.1-0:amd64 (0.1.16-1) ...
+Setting up libsdl1.2debian:amd64 (1.2.15+dfsg1-3) ...
+Setting up libamd2.4.1:amd64 (1:4.4.6-1) ...
+Setting up libblas-common (3.6.0-2ubuntu2) ...
+Setting up libblas3 (3.6.0-2ubuntu2) ...
+update-alternatives: using /usr/lib/libblas/libblas.so.3 to provide /usr/lib/libblas.so.3 (libblas.so.3) in auto mode
+Setting up libcamd2.4.1:amd64 (1:4.4.6-1) ...
+Setting up libccolamd2.9.1:amd64 (1:4.4.6-1) ...
+Setting up libgfortran3:amd64 (5.4.0-6ubuntu1~16.04.4) ...
+Setting up liblapack3 (3.6.0-2ubuntu2) ...
+update-alternatives: using /usr/lib/lapack/liblapack.so.3 to provide /usr/lib/liblapack.so.3 (liblapack.so.3) in auto mode
+Setting up libcholmod3.0.6:amd64 (1:4.4.6-1) ...
+Setting up libumfpack5.7.1:amd64 (1:4.4.6-1) ...
+Setting up libgegl-0.3-0:amd64 (0.3.4-1ubuntu2) ...
+Setting up gimp (2.8.16-1ubuntu1.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-gobject python-ibus python-libxml2 python-notify
+  python-pexpect python-ptyprocess python-renderpm python-reportlab
+  python-reportlab-accel python-requests python-smbc python3-checkbox-ng
+  qml-module-qtquick-dialogs qml-module-qtquick-localstorage
+  qml-module-qtquick-privatewidgets qml-module-ubuntu-ui-extras-browser
+  qtdeclarative5-dialogs-plugin qtdeclarative5-localstorage-plugin
+  qtdeclarative5-privatewidgets-plugin qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libbasicusageenvironment1 libcddb2 libdvbpsi10 libebml4v5 libgroupsock8
+  libiso9660-8 liblivemedia50 libmatroska6v5 libproxy-tools libqt5x11extras5
+  libresid-builder0c2a libsdl-image1.2 libsidplay2v5 libssh2-1 libupnp6
+  libusageenvironment3 libva-drm1 libva-x11-1 libvcdinfo0 libvlc5 libvlccore8
+  libxcb-composite0 libxcb-xv0 vlc-data vlc-nox vlc-plugin-notify
+  vlc-plugin-samba
+Suggested packages:
+  libdvdcss2
+The following NEW packages will be installed:
+  libbasicusageenvironment1 libcddb2 libdvbpsi10 libebml4v5 libgroupsock8
+  libiso9660-8 liblivemedia50 libmatroska6v5 libproxy-tools libqt5x11extras5
+  libresid-builder0c2a libsdl-image1.2 libsidplay2v5 libssh2-1 libupnp6
+  libusageenvironment3 libva-drm1 libva-x11-1 libvcdinfo0 libvlc5 libvlccore8
+  libxcb-composite0 libxcb-xv0 vlc vlc-data vlc-nox vlc-plugin-notify
+  vlc-plugin-samba
+0 upgraded, 28 newly installed, 0 to remove and 4 not upgraded.
+Need to get 11,3 MB of archives.
+After this operation, 59,4 MB of additional disk space will be used.
+Get:1 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libsdl-image1.2 amd64 1.2.12-5build2 [28,2 kB]
+Get:2 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libproxy-tools amd64 0.4.11-5ubuntu1 [5.226 B]
+Get:3 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 vlc-data all 2.2.2-5ubuntu0.16.04.4 [5.903 kB]
+Get:4 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libvlccore8 amd64 2.2.2-5ubuntu0.16.04.4 [406 kB]
+Get:5 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libvlc5 amd64 2.2.2-5ubuntu0.16.04.4 [60,0 kB]
+Get:6 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libbasicusageenvironment1 amd64 2016.02.09-1 [16,2 kB]
+Get:7 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libcddb2 amd64 1.3.2-5fakesync1 [33,9 kB]
+Get:8 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libdvbpsi10 amd64 1.3.0-4 [47,7 kB]
+Get:9 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libebml4v5 amd64 1.3.3-1 [44,8 kB]
+Get:10 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgroupsock8 amd64 2016.02.09-1 [21,5 kB]
+Get:11 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 liblivemedia50 amd64 2016.02.09-1 [294 kB]
+Get:12 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libmatroska6v5 amd64 1.4.4-1 [109 kB]
+Get:13 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libresid-builder0c2a amd64 2.1.1-14ubuntu2 [31,3 kB]
+Get:14 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libsidplay2v5 amd64 2.1.1-14ubuntu2 [87,6 kB]
+Get:15 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 libssh2-1 amd64 1.5.0-2ubuntu0.1 [70,2 kB]
+Get:16 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libupnp6 amd64 1:1.6.19+git20160116-1 [121 kB]
+Get:17 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libusageenvironment3 amd64 2016.02.09-1 [7.120 B]
+Get:18 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libiso9660-8 amd64 0.83-4.2ubuntu1 [18,4 kB]
+Get:19 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libvcdinfo0 amd64 0.7.24+dfsg-0.2 [90,7 kB]
+Get:20 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 vlc-nox amd64 2.2.2-5ubuntu0.16.04.4 [2.325 kB]
+Get:21 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libqt5x11extras5 amd64 5.5.1-3build1 [7.876 B]
+Get:22 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libva-drm1 amd64 1.7.0-1 [8.414 B]
+Get:23 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libva-x11-1 amd64 1.7.0-1 [11,9 kB]
+Get:24 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libxcb-composite0 amd64 1.11.1-1ubuntu1 [5.100 B]
+Get:25 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libxcb-xv0 amd64 1.11.1-1ubuntu1 [8.994 B]
+Get:26 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 vlc amd64 2.2.2-5ubuntu0.16.04.4 [1.505 kB]
+Get:27 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 vlc-plugin-notify amd64 2.2.2-5ubuntu0.16.04.4 [6.222 B]
+Get:28 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 vlc-plugin-samba amd64 2.2.2-5ubuntu0.16.04.4 [5.938 B]
+Fetched 11,3 MB in 2s (4.870 kB/s)
+Selecting previously unselected package libsdl-image1.2:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 332699 files and directories currently installed.)
+Preparing to unpack .../libsdl-image1.2_1.2.12-5build2_amd64.deb ...
+Unpacking libsdl-image1.2:amd64 (1.2.12-5build2) ...
+Selecting previously unselected package libproxy-tools.
+Preparing to unpack .../libproxy-tools_0.4.11-5ubuntu1_amd64.deb ...
+Unpacking libproxy-tools (0.4.11-5ubuntu1) ...
+Selecting previously unselected package vlc-data.
+Preparing to unpack .../vlc-data_2.2.2-5ubuntu0.16.04.4_all.deb ...
+Unpacking vlc-data (2.2.2-5ubuntu0.16.04.4) ...
+Selecting previously unselected package libvlccore8.
+Preparing to unpack .../libvlccore8_2.2.2-5ubuntu0.16.04.4_amd64.deb ...
+Unpacking libvlccore8 (2.2.2-5ubuntu0.16.04.4) ...
+Selecting previously unselected package libvlc5.
+Preparing to unpack .../libvlc5_2.2.2-5ubuntu0.16.04.4_amd64.deb ...
+Unpacking libvlc5 (2.2.2-5ubuntu0.16.04.4) ...
+Selecting previously unselected package libbasicusageenvironment1:amd64.
+Preparing to unpack .../libbasicusageenvironment1_2016.02.09-1_amd64.deb ...
+Unpacking libbasicusageenvironment1:amd64 (2016.02.09-1) ...
+Selecting previously unselected package libcddb2.
+Preparing to unpack .../libcddb2_1.3.2-5fakesync1_amd64.deb ...
+Unpacking libcddb2 (1.3.2-5fakesync1) ...
+Selecting previously unselected package libdvbpsi10:amd64.
+Preparing to unpack .../libdvbpsi10_1.3.0-4_amd64.deb ...
+Unpacking libdvbpsi10:amd64 (1.3.0-4) ...
+Selecting previously unselected package libebml4v5:amd64.
+Preparing to unpack .../libebml4v5_1.3.3-1_amd64.deb ...
+Unpacking libebml4v5:amd64 (1.3.3-1) ...
+Selecting previously unselected package libgroupsock8:amd64.
+Preparing to unpack .../libgroupsock8_2016.02.09-1_amd64.deb ...
+Unpacking libgroupsock8:amd64 (2016.02.09-1) ...
+Selecting previously unselected package liblivemedia50:amd64.
+Preparing to unpack .../liblivemedia50_2016.02.09-1_amd64.deb ...
+Unpacking liblivemedia50:amd64 (2016.02.09-1) ...
+Selecting previously unselected package libmatroska6v5:amd64.
+Preparing to unpack .../libmatroska6v5_1.4.4-1_amd64.deb ...
+Unpacking libmatroska6v5:amd64 (1.4.4-1) ...
+Selecting previously unselected package libresid-builder0c2a.
+Preparing to unpack .../libresid-builder0c2a_2.1.1-14ubuntu2_amd64.deb ...
+Unpacking libresid-builder0c2a (2.1.1-14ubuntu2) ...
+Selecting previously unselected package libsidplay2v5.
+Preparing to unpack .../libsidplay2v5_2.1.1-14ubuntu2_amd64.deb ...
+Unpacking libsidplay2v5 (2.1.1-14ubuntu2) ...
+Selecting previously unselected package libssh2-1:amd64.
+Preparing to unpack .../libssh2-1_1.5.0-2ubuntu0.1_amd64.deb ...
+Unpacking libssh2-1:amd64 (1.5.0-2ubuntu0.1) ...
+Selecting previously unselected package libupnp6.
+Preparing to unpack .../libupnp6_1%3a1.6.19+git20160116-1_amd64.deb ...
+Unpacking libupnp6 (1:1.6.19+git20160116-1) ...
+Selecting previously unselected package libusageenvironment3:amd64.
+Preparing to unpack .../libusageenvironment3_2016.02.09-1_amd64.deb ...
+Unpacking libusageenvironment3:amd64 (2016.02.09-1) ...
+Selecting previously unselected package libiso9660-8:amd64.
+Preparing to unpack .../libiso9660-8_0.83-4.2ubuntu1_amd64.deb ...
+Unpacking libiso9660-8:amd64 (0.83-4.2ubuntu1) ...
+Selecting previously unselected package libvcdinfo0.
+Preparing to unpack .../libvcdinfo0_0.7.24+dfsg-0.2_amd64.deb ...
+Unpacking libvcdinfo0 (0.7.24+dfsg-0.2) ...
+Selecting previously unselected package vlc-nox.
+Preparing to unpack .../vlc-nox_2.2.2-5ubuntu0.16.04.4_amd64.deb ...
+Unpacking vlc-nox (2.2.2-5ubuntu0.16.04.4) ...
+Selecting previously unselected package libqt5x11extras5:amd64.
+Preparing to unpack .../libqt5x11extras5_5.5.1-3build1_amd64.deb ...
+Unpacking libqt5x11extras5:amd64 (5.5.1-3build1) ...
+Selecting previously unselected package libva-drm1:amd64.
+Preparing to unpack .../libva-drm1_1.7.0-1_amd64.deb ...
+Unpacking libva-drm1:amd64 (1.7.0-1) ...
+Selecting previously unselected package libva-x11-1:amd64.
+Preparing to unpack .../libva-x11-1_1.7.0-1_amd64.deb ...
+Unpacking libva-x11-1:amd64 (1.7.0-1) ...
+Selecting previously unselected package libxcb-composite0:amd64.
+Preparing to unpack .../libxcb-composite0_1.11.1-1ubuntu1_amd64.deb ...
+Unpacking libxcb-composite0:amd64 (1.11.1-1ubuntu1) ...
+Selecting previously unselected package libxcb-xv0:amd64.
+Preparing to unpack .../libxcb-xv0_1.11.1-1ubuntu1_amd64.deb ...
+Unpacking libxcb-xv0:amd64 (1.11.1-1ubuntu1) ...
+Selecting previously unselected package vlc.
+Preparing to unpack .../vlc_2.2.2-5ubuntu0.16.04.4_amd64.deb ...
+Unpacking vlc (2.2.2-5ubuntu0.16.04.4) ...
+Selecting previously unselected package vlc-plugin-notify.
+Preparing to unpack .../vlc-plugin-notify_2.2.2-5ubuntu0.16.04.4_amd64.deb ...
+Unpacking vlc-plugin-notify (2.2.2-5ubuntu0.16.04.4) ...
+Selecting previously unselected package vlc-plugin-samba.
+Preparing to unpack .../vlc-plugin-samba_2.2.2-5ubuntu0.16.04.4_amd64.deb ...
+Unpacking vlc-plugin-samba (2.2.2-5ubuntu0.16.04.4) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for hicolor-icon-theme (0.15-0ubuntu1) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Processing triggers for gnome-menus (3.13.3-6ubuntu3.1) ...
+Processing triggers for desktop-file-utils (0.22-1ubuntu5.1) ...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Processing triggers for bamfdaemon (0.5.3~bzr0+16.04.20160824-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Setting up libsdl-image1.2:amd64 (1.2.12-5build2) ...
+Setting up libproxy-tools (0.4.11-5ubuntu1) ...
+Setting up vlc-data (2.2.2-5ubuntu0.16.04.4) ...
+Setting up libvlccore8 (2.2.2-5ubuntu0.16.04.4) ...
+Setting up libvlc5 (2.2.2-5ubuntu0.16.04.4) ...
+Setting up libbasicusageenvironment1:amd64 (2016.02.09-1) ...
+Setting up libcddb2 (1.3.2-5fakesync1) ...
+Setting up libdvbpsi10:amd64 (1.3.0-4) ...
+Setting up libebml4v5:amd64 (1.3.3-1) ...
+Setting up libgroupsock8:amd64 (2016.02.09-1) ...
+Setting up liblivemedia50:amd64 (2016.02.09-1) ...
+Setting up libmatroska6v5:amd64 (1.4.4-1) ...
+Setting up libresid-builder0c2a (2.1.1-14ubuntu2) ...
+Setting up libsidplay2v5 (2.1.1-14ubuntu2) ...
+Setting up libssh2-1:amd64 (1.5.0-2ubuntu0.1) ...
+Setting up libupnp6 (1:1.6.19+git20160116-1) ...
+Setting up libusageenvironment3:amd64 (2016.02.09-1) ...
+Setting up libiso9660-8:amd64 (0.83-4.2ubuntu1) ...
+Setting up libvcdinfo0 (0.7.24+dfsg-0.2) ...
+Setting up vlc-nox (2.2.2-5ubuntu0.16.04.4) ...
+Setting up libqt5x11extras5:amd64 (5.5.1-3build1) ...
+Setting up libva-drm1:amd64 (1.7.0-1) ...
+Setting up libva-x11-1:amd64 (1.7.0-1) ...
+Setting up libxcb-composite0:amd64 (1.11.1-1ubuntu1) ...
+Setting up libxcb-xv0:amd64 (1.11.1-1ubuntu1) ...
+Setting up vlc (2.2.2-5ubuntu0.16.04.4) ...
+Setting up vlc-plugin-notify (2.2.2-5ubuntu0.16.04.4) ...
+Setting up vlc-plugin-samba (2.2.2-5ubuntu0.16.04.4) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Processing triggers for vlc-nox (2.2.2-5ubuntu0.16.04.4) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-ibus python-libxml2 python-notify python-pexpect
+  python-ptyprocess python-renderpm python-reportlab python-reportlab-accel
+  python-requests python-smbc python3-checkbox-ng qml-module-qtquick-dialogs
+  qml-module-qtquick-localstorage qml-module-qtquick-privatewidgets
+  qml-module-ubuntu-ui-extras-browser qtdeclarative5-dialogs-plugin
+  qtdeclarative5-localstorage-plugin qtdeclarative5-privatewidgets-plugin
+  qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  python-appindicator recordmydesktop
+The following NEW packages will be installed:
+  gtk-recordmydesktop python-appindicator recordmydesktop
+0 upgraded, 3 newly installed, 0 to remove and 4 not upgraded.
+Need to get 175 kB of archives.
+After this operation, 988 kB of additional disk space will be used.
+Get:1 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 recordmydesktop amd64 0.3.8.1+svn602-1ubuntu4 [46,7 kB]
+Get:2 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 gtk-recordmydesktop all 0.3.8-4.1ubuntu1 [121 kB]
+Get:3 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 python-appindicator amd64 12.10.1+16.04.20170215-0ubuntu1 [7.740 B]
+Fetched 175 kB in 0s (983 kB/s)
+Selecting previously unselected package recordmydesktop.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 333574 files and directories currently installed.)
+Preparing to unpack .../recordmydesktop_0.3.8.1+svn602-1ubuntu4_amd64.deb ...
+Unpacking recordmydesktop (0.3.8.1+svn602-1ubuntu4) ...
+Selecting previously unselected package gtk-recordmydesktop.
+Preparing to unpack .../gtk-recordmydesktop_0.3.8-4.1ubuntu1_all.deb ...
+Unpacking gtk-recordmydesktop (0.3.8-4.1ubuntu1) ...
+Selecting previously unselected package python-appindicator.
+Preparing to unpack .../python-appindicator_12.10.1+16.04.20170215-0ubuntu1_amd64.deb ...
+Unpacking python-appindicator (12.10.1+16.04.20170215-0ubuntu1) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for gnome-menus (3.13.3-6ubuntu3.1) ...
+Processing triggers for desktop-file-utils (0.22-1ubuntu5.1) ...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Processing triggers for bamfdaemon (0.5.3~bzr0+16.04.20160824-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Setting up recordmydesktop (0.3.8.1+svn602-1ubuntu4) ...
+Setting up gtk-recordmydesktop (0.3.8-4.1ubuntu1) ...
+Setting up python-appindicator (12.10.1+16.04.20170215-0ubuntu1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+docky is already the newest version (2.2.1.1-1).
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-ibus python-libxml2 python-notify python-pexpect
+  python-ptyprocess python-renderpm python-reportlab python-reportlab-accel
+  python-requests python-smbc python3-checkbox-ng qml-module-qtquick-dialogs
+  qml-module-qtquick-localstorage qml-module-qtquick-privatewidgets
+  qml-module-ubuntu-ui-extras-browser qtdeclarative5-dialogs-plugin
+  qtdeclarative5-localstorage-plugin qtdeclarative5-privatewidgets-plugin
+  qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 4 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Package gstreamer0.10-plugins-ugly is not available, but is referred to by another package.
+This may mean that the package is missing, has been obsoleted, or
+is only available from another source
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-ibus python-libxml2 python-notify python-pexpect
+  python-ptyprocess python-renderpm python-reportlab python-reportlab-accel
+  python-requests python-smbc python3-checkbox-ng qml-module-qtquick-dialogs
+  qml-module-qtquick-localstorage qml-module-qtquick-privatewidgets
+  qml-module-ubuntu-ui-extras-browser qtdeclarative5-dialogs-plugin
+  qtdeclarative5-localstorage-plugin qtdeclarative5-privatewidgets-plugin
+  qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  nethogs
+0 upgraded, 1 newly installed, 0 to remove and 4 not upgraded.
+Need to get 25,9 kB of archives.
+After this operation, 72,7 kB of additional disk space will be used.
+Get:1 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 nethogs amd64 0.8.1-0.3 [25,9 kB]
+Fetched 25,9 kB in 0s (196 kB/s)
+Selecting previously unselected package nethogs.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 333650 files and directories currently installed.)
+Preparing to unpack .../nethogs_0.8.1-0.3_amd64.deb ...
+Unpacking nethogs (0.8.1-0.3) ...
+Processing triggers for man-db (2.7.5-1) ...
+Setting up nethogs (0.8.1-0.3) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-ibus python-libxml2 python-notify python-pexpect
+  python-ptyprocess python-renderpm python-reportlab python-reportlab-accel
+  python-requests python-smbc python3-checkbox-ng qml-module-qtquick-dialogs
+  qml-module-qtquick-localstorage qml-module-qtquick-privatewidgets
+  qml-module-ubuntu-ui-extras-browser qtdeclarative5-dialogs-plugin
+  qtdeclarative5-localstorage-plugin qtdeclarative5-privatewidgets-plugin
+  qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  indicator-multiload
+0 upgraded, 1 newly installed, 0 to remove and 4 not upgraded.
+Need to get 138 kB of archives.
+After this operation, 916 kB of additional disk space will be used.
+Get:1 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 indicator-multiload amd64 0.4-0ubuntu4 [138 kB]
+Fetched 138 kB in 0s (855 kB/s)
+Selecting previously unselected package indicator-multiload.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 333656 files and directories currently installed.)
+Preparing to unpack .../indicator-multiload_0.4-0ubuntu4_amd64.deb ...
+Unpacking indicator-multiload (0.4-0ubuntu4) ...
+Processing triggers for libglib2.0-0:amd64 (2.48.2-0ubuntu1) ...
+Processing triggers for gnome-menus (3.13.3-6ubuntu3.1) ...
+Processing triggers for desktop-file-utils (0.22-1ubuntu5.1) ...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Processing triggers for bamfdaemon (0.5.3~bzr0+16.04.20160824-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Setting up indicator-multiload (0.4-0ubuntu4) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-ibus python-libxml2 python-notify python-pexpect
+  python-ptyprocess python-renderpm python-reportlab python-reportlab-accel
+  python-requests python-smbc python3-checkbox-ng qml-module-qtquick-dialogs
+  qml-module-qtquick-localstorage qml-module-qtquick-privatewidgets
+  qml-module-ubuntu-ui-extras-browser qtdeclarative5-dialogs-plugin
+  qtdeclarative5-localstorage-plugin qtdeclarative5-privatewidgets-plugin
+  qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libgksu2-0
+The following NEW packages will be installed:
+  gksu libgksu2-0
+0 upgraded, 2 newly installed, 0 to remove and 4 not upgraded.
+Need to get 123 kB of archives.
+After this operation, 877 kB of additional disk space will be used.
+Get:1 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgksu2-0 amd64 2.0.13~pre1-6ubuntu8 [71,8 kB]
+Get:2 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 gksu amd64 2.0.2-9ubuntu1 [51,5 kB]
+Fetched 123 kB in 0s (748 kB/s)
+Selecting previously unselected package libgksu2-0.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 333758 files and directories currently installed.)
+Preparing to unpack .../libgksu2-0_2.0.13~pre1-6ubuntu8_amd64.deb ...
+Unpacking libgksu2-0 (2.0.13~pre1-6ubuntu8) ...
+Selecting previously unselected package gksu.
+Preparing to unpack .../gksu_2.0.2-9ubuntu1_amd64.deb ...
+Unpacking gksu (2.0.2-9ubuntu1) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Processing triggers for gconf2 (3.2.6-3ubuntu6) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for gnome-menus (3.13.3-6ubuntu3.1) ...
+Processing triggers for desktop-file-utils (0.22-1ubuntu5.1) ...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Processing triggers for bamfdaemon (0.5.3~bzr0+16.04.20160824-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Setting up libgksu2-0 (2.0.13~pre1-6ubuntu8) ...
+update-alternatives: using /usr/share/libgksu/debian/gconf-defaults.libgksu-sudo to provide /usr/share/gconf/defaults/10_libgksu (libgksu-gconf-defaults) in auto mode
+Processing triggers for gconf2 (3.2.6-3ubuntu6) ...
+Setting up gksu (2.0.2-9ubuntu1) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme gnome-icon-theme-symbolic
+  gstreamer0.10-nice gstreamer0.10-plugins-good gstreamer0.10-pulseaudio
+  gstreamer0.10-x gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54
+  libavformat54 libavutil52 libbind9-90 libboost-date-time1.54.0
+  libboost-system1.54.0 libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4
+  libcolamd2.8.0 libcolord1 libcolorhug1 libcrypt-passwdmd5-perl libdns100
+  libebackend-1.2-7 libebook-1.2-14 libebook-contacts-1.2-0
+  libedata-book-1.2-20 libedataserver-1.2-18 libegl1-mesa-drivers
+  libegl1-mesa-lts-xenial libelfg0 libexiv2-12 libfarstream-0.1-0 libfriends0
+  libgbm1-lts-xenial libgdata13 libgee2 libgl1-mesa-dri-lts-xenial
+  libgl1-mesa-glx-lts-xenial libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial
+  libglew1.10 libglewmx1.10 libgnome-bluetooth11 libgnome-control-center1
+  libgnome-desktop-3-7 libgphoto2-port10 libgrip0 libgtop2-7 libicu52
+  libilmbase6 libimobiledevice4 libisc95 libisccc90 libisccfg90 libisl10
+  libllvm3.8v4 liblouis2 liblwres90 libmbim-glib0 libminiupnpc8 libmspub-0.0-0
+  libnl-route-3-200 libopenexr6 libopenjpeg2 libopenobex2 liborcus-0.6-0
+  libparted0debian1 libplist1 libpocketsphinx1 libpoppler44 libprotobuf8
+  libqmi-glib0 libqpdf13 libqt5qml-graphicaleffects libqt5sensors5
+  libqt5webkit5-qmlwebkitplugin libraw9 librhythmbox-core8 libsphinxbase1
+  libswscale2 libsystemd-daemon0 libsystemd-journal0 libsystemd-login0 libt1-5
+  libthumbnailer0 libts-0.0-0 libunityvoice1 libupower-glib1 libusbmuxd2
+  libvisio-0.0-0 libwpd-0.9-9 libwpg-0.2-2 libwps-0.2-2 libx264-142
+  libxatracker2-lts-xenial libxcb-util0 libxtables10 linux-headers-4.4.0-31
+  linux-headers-4.4.0-31-generic linux-image-4.4.0-31-generic
+  linux-image-extra-4.4.0-31-generic linux-image-generic-lts-xenial
+  linux-signed-image-generic-lts-xenial obex-data-server
+  python-commandnotfound python-dbus-dev python-gconf python-gdbm
+  python-gnomekeyring python-ibus python-libxml2 python-notify python-pexpect
+  python-ptyprocess python-renderpm python-reportlab python-reportlab-accel
+  python-requests python-smbc python3-checkbox-ng qml-module-qtquick-dialogs
+  qml-module-qtquick-localstorage qml-module-qtquick-privatewidgets
+  qml-module-ubuntu-ui-extras-browser qtdeclarative5-dialogs-plugin
+  qtdeclarative5-localstorage-plugin qtdeclarative5-privatewidgets-plugin
+  qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  gcj-5-jre-lib libgcj-common libgcj16
+Suggested packages:
+  libgcj16-dbg libgcj16-awt
+The following NEW packages will be installed:
+  gcj-5-jre-lib libgcj-common libgcj16 pdftk
+0 upgraded, 4 newly installed, 0 to remove and 4 not upgraded.
+Need to get 20,4 MB of archives.
+After this operation, 69,9 MB of additional disk space will be used.
+Get:1 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgcj-common all 1:4.9.3-9ubuntu1 [149 kB]
+Get:2 http://br.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libgcj16 amd64 5.4.0-6ubuntu1~16.04.4 [9.242 kB]
+Get:3 http://br.archive.ubuntu.com/ubuntu xenial-updates/main amd64 gcj-5-jre-lib all 5.4.0-6ubuntu1~16.04.4 [10,4 MB]
+Get:4 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 pdftk amd64 2.02-4 [671 kB]
+Fetched 20,4 MB in 4s (4.888 kB/s)
+Selecting previously unselected package libgcj-common.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 333839 files and directories currently installed.)
+Preparing to unpack .../libgcj-common_1%3a4.9.3-9ubuntu1_all.deb ...
+Unpacking libgcj-common (1:4.9.3-9ubuntu1) ...
+Selecting previously unselected package libgcj16:amd64.
+Preparing to unpack .../libgcj16_5.4.0-6ubuntu1~16.04.4_amd64.deb ...
+Unpacking libgcj16:amd64 (5.4.0-6ubuntu1~16.04.4) ...
+Selecting previously unselected package gcj-5-jre-lib.
+Preparing to unpack .../gcj-5-jre-lib_5.4.0-6ubuntu1~16.04.4_all.deb ...
+Unpacking gcj-5-jre-lib (5.4.0-6ubuntu1~16.04.4) ...
+Selecting previously unselected package pdftk.
+Preparing to unpack .../pdftk_2.02-4_amd64.deb ...
+Unpacking pdftk (2.02-4) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Setting up libgcj-common (1:4.9.3-9ubuntu1) ...
+Setting up libgcj16:amd64 (5.4.0-6ubuntu1~16.04.4) ...
+Setting up gcj-5-jre-lib (5.4.0-6ubuntu1~16.04.4) ...
+Setting up pdftk (2.02-4) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme-symbolic gstreamer0.10-nice
+  gstreamer0.10-plugins-good gstreamer0.10-pulseaudio gstreamer0.10-x
+  gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54 libavformat54
+  libavutil52 libbind9-90 libboost-date-time1.54.0 libboost-system1.54.0
+  libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4 libcolamd2.8.0 libcolord1
+  libcolorhug1 libcrypt-passwdmd5-perl libdns100 libebackend-1.2-7
+  libebook-1.2-14 libebook-contacts-1.2-0 libedata-book-1.2-20
+  libedataserver-1.2-18 libegl1-mesa-drivers libegl1-mesa-lts-xenial libelfg0
+  libexiv2-12 libfarstream-0.1-0 libfriends0 libgbm1-lts-xenial libgdata13
+  libgee2 libgl1-mesa-dri-lts-xenial libgl1-mesa-glx-lts-xenial
+  libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial libglew1.10 libglewmx1.10
+  libgnome-bluetooth11 libgnome-control-center1 libgnome-desktop-3-7
+  libgphoto2-port10 libgrip0 libgtop2-7 libicu52 libilmbase6 libimobiledevice4
+  libisc95 libisccc90 libisccfg90 libisl10 libllvm3.8v4 liblouis2 liblwres90
+  libmbim-glib0 libminiupnpc8 libmspub-0.0-0 libnl-route-3-200 libopenexr6
+  libopenjpeg2 libopenobex2 liborcus-0.6-0 libparted0debian1 libplist1
+  libpocketsphinx1 libpoppler44 libprotobuf8 libqmi-glib0 libqpdf13
+  libqt5qml-graphicaleffects libqt5sensors5 libqt5webkit5-qmlwebkitplugin
+  libraw9 librhythmbox-core8 libsphinxbase1 libswscale2 libsystemd-daemon0
+  libsystemd-journal0 libsystemd-login0 libt1-5 libthumbnailer0 libts-0.0-0
+  libunityvoice1 libupower-glib1 libusbmuxd2 libvisio-0.0-0 libwpd-0.9-9
+  libwpg-0.2-2 libwps-0.2-2 libx264-142 libxatracker2-lts-xenial libxcb-util0
+  libxtables10 linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic
+  linux-image-4.4.0-31-generic linux-image-extra-4.4.0-31-generic
+  linux-image-generic-lts-xenial linux-signed-image-generic-lts-xenial
+  obex-data-server python-commandnotfound python-dbus-dev python-gconf
+  python-gdbm python-gnomekeyring python-ibus python-libxml2 python-notify
+  python-pexpect python-ptyprocess python-renderpm python-reportlab
+  python-reportlab-accel python-requests python-smbc python3-checkbox-ng
+  qml-module-qtquick-dialogs qml-module-qtquick-localstorage
+  qml-module-qtquick-privatewidgets qml-module-ubuntu-ui-extras-browser
+  qtdeclarative5-dialogs-plugin qtdeclarative5-localstorage-plugin
+  qtdeclarative5-privatewidgets-plugin qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libbonobo2-0 libbonobo2-common libbonoboui2-0 libbonoboui2-common
+  libclass-data-inheritable-perl libclass-method-modifiers-perl
+  libcommon-sense-perl libcrypt-openssl-bignum-perl libcrypt-openssl-rsa-perl
+  libdata-random-perl libextutils-depends-perl libextutils-pkgconfig-perl
+  libfile-which-perl libgd-perl libglade2-0 libgnome-2-0 libgnome2-0
+  libgnome2-bin libgnome2-canvas-perl libgnome2-common libgnome2-gconf-perl
+  libgnome2-perl libgnome2-vfs-perl libgnome2-wnck-perl libgnomecanvas2-0
+  libgnomecanvas2-common libgnomeui-0 libgnomeui-common libgnomevfs2-0
+  libgnomevfs2-common libgnomevfs2-extra libgoo-canvas-perl
+  libgoocanvas-common libgoocanvas3 libgtk2-appindicator-perl
+  libgtk2-imageview-perl libgtk2-unique-perl libgtkimageview0
+  libhttp-server-simple-perl libimage-magick-perl libimage-magick-q16-perl
+  libjson-perl libjson-xs-perl libmouse-perl libnet-dropbox-api-perl
+  libnet-oauth-perl liborbit-2-0 libpath-class-perl libproc-processtable-perl
+  libproc-simple-perl libsort-naturally-perl libtypes-serialiser-perl
+  libunique-1.0-0 libwww-mechanize-perl libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-sax-base-perl libxml-sax-expat-perl
+  libxml-sax-perl libxml-simple-perl perlmagick
+Suggested packages:
+  libbonobo2-bin desktop-base libswitch-perl | perl libgnomevfs2-bin gamin
+  | fam gnome-mime-data imagemagick-doc libmojolicious-perl gnome-web-photo
+  libimage-exiftool-perl libnet-dbus-glib-perl
+The following NEW packages will be installed:
+  libbonobo2-0 libbonobo2-common libbonoboui2-0 libbonoboui2-common
+  libclass-data-inheritable-perl libclass-method-modifiers-perl
+  libcommon-sense-perl libcrypt-openssl-bignum-perl libcrypt-openssl-rsa-perl
+  libdata-random-perl libextutils-depends-perl libextutils-pkgconfig-perl
+  libfile-which-perl libgd-perl libglade2-0 libgnome-2-0 libgnome2-0
+  libgnome2-bin libgnome2-canvas-perl libgnome2-common libgnome2-gconf-perl
+  libgnome2-perl libgnome2-vfs-perl libgnome2-wnck-perl libgnomecanvas2-0
+  libgnomecanvas2-common libgnomeui-0 libgnomeui-common libgnomevfs2-0
+  libgnomevfs2-common libgnomevfs2-extra libgoo-canvas-perl
+  libgoocanvas-common libgoocanvas3 libgtk2-appindicator-perl
+  libgtk2-imageview-perl libgtk2-unique-perl libgtkimageview0
+  libhttp-server-simple-perl libimage-magick-perl libimage-magick-q16-perl
+  libjson-perl libjson-xs-perl libmouse-perl libnet-dropbox-api-perl
+  libnet-oauth-perl liborbit-2-0 libpath-class-perl libproc-processtable-perl
+  libproc-simple-perl libsort-naturally-perl libtypes-serialiser-perl
+  libunique-1.0-0 libwww-mechanize-perl libxml-libxml-perl
+  libxml-namespacesupport-perl libxml-sax-base-perl libxml-sax-expat-perl
+  libxml-sax-perl libxml-simple-perl perlmagick shutter
+0 upgraded, 62 newly installed, 0 to remove and 4 not upgraded.
+Need to get 5.417 kB of archives.
+After this operation, 35,3 MB of additional disk space will be used.
+Get:1 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libbonobo2-common all 2.32.1-3 [34,7 kB]
+Get:2 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 liborbit-2-0 amd64 1:2.14.19-1build1 [140 kB]
+Get:3 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libbonobo2-0 amd64 2.32.1-3 [211 kB]
+Get:4 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libglade2-0 amd64 1:2.6.4-2 [44,6 kB]
+Get:5 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnomecanvas2-common all 2.30.3-2 [9.080 B]
+Get:6 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnomecanvas2-0 amd64 2.30.3-2 [82,7 kB]
+Get:7 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnomevfs2-common amd64 1:2.24.4-6.1ubuntu1 [23,0 kB]
+Get:8 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnomevfs2-0 amd64 1:2.24.4-6.1ubuntu1 [213 kB]
+Get:9 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnome2-common all 2.32.1-5ubuntu1 [33,5 kB]
+Get:10 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnome-2-0 amd64 2.32.1-5ubuntu1 [53,7 kB]
+Get:11 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnome2-bin amd64 2.32.1-5ubuntu1 [5.040 B]
+Get:12 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnome2-0 amd64 2.32.1-5ubuntu1 [1.656 B]
+Get:13 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libbonoboui2-common all 2.24.5-3ubuntu1 [11,9 kB]
+Get:14 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libbonoboui2-0 amd64 2.24.5-3ubuntu1 [154 kB]
+Get:15 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libclass-data-inheritable-perl all 0.08-2 [8.774 B]
+Get:16 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libclass-method-modifiers-perl all 2.11-1 [15,7 kB]
+Get:17 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libcommon-sense-perl amd64 3.74-1build1 [20,6 kB]
+Get:18 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libcrypt-openssl-bignum-perl amd64 0.06-1build1 [24,2 kB]
+Get:19 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libcrypt-openssl-rsa-perl amd64 0.28-2build2 [20,8 kB]
+Get:20 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libdata-random-perl all 0.12-1 [130 kB]
+Get:21 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libextutils-depends-perl all 0.405-1 [15,5 kB]
+Get:22 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libextutils-pkgconfig-perl all 1.15-1 [10,2 kB]
+Get:23 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libfile-which-perl all 1.19-1 [12,3 kB]
+Get:24 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgnome2-canvas-perl amd64 1.002-3build2 [99,5 kB]
+Get:25 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgnome2-gconf-perl amd64 1.044-5build2 [71,1 kB]
+Get:26 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnomeui-common all 2.24.5-3.1 [16,3 kB]
+Get:27 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnomeui-0 amd64 2.24.5-3.1 [207 kB]
+Get:28 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgnome2-vfs-perl amd64 1.082-1build2 [137 kB]
+Get:29 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgnome2-perl amd64 1.046-2build1 [195 kB]
+Get:30 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgnome2-wnck-perl amd64 0.16-3build2 [52,6 kB]
+Get:31 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgnomevfs2-extra amd64 1:2.24.4-6.1ubuntu1 [67,3 kB]
+Get:32 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgoocanvas-common all 1.0.0-1 [13,0 kB]
+Get:33 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgoocanvas3 amd64 1.0.0-1 [94,2 kB]
+Get:34 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgoo-canvas-perl amd64 0.06-2ubuntu1 [171 kB]
+Get:35 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgtk2-appindicator-perl amd64 0.15-1build3 [12,7 kB]
+Get:36 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgtkimageview0 amd64 1.6.4+dfsg-1 [27,4 kB]
+Get:37 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgtk2-imageview-perl amd64 0.05-2build2 [59,2 kB]
+Get:38 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libunique-1.0-0 amd64 1.1.6-5 [21,8 kB]
+Get:39 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libgtk2-unique-perl amd64 0.05-2ubuntu1 [31,0 kB]
+Get:40 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libhttp-server-simple-perl all 0.51-1 [25,0 kB]
+Get:41 http://br.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libimage-magick-q16-perl amd64 8:6.8.9.9-7ubuntu5.9 [109 kB]
+Get:42 http://br.archive.ubuntu.com/ubuntu xenial-updates/main amd64 libimage-magick-perl all 8:6.8.9.9-7ubuntu5.9 [62,3 kB]
+Get:43 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libjson-perl all 2.90-1 [79,4 kB]
+Get:44 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libtypes-serialiser-perl all 1.0-1 [12,1 kB]
+Get:45 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libjson-xs-perl amd64 3.010-2build1 [78,1 kB]
+Get:46 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libmouse-perl amd64 2.4.5-1build1 [155 kB]
+Get:47 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libnet-oauth-perl all 0.28-2 [62,8 kB]
+Get:48 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libnet-dropbox-api-perl all 1.9-1 [11,1 kB]
+Get:49 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libpath-class-perl all 0.36-1 [37,4 kB]
+Get:50 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libproc-processtable-perl amd64 0.53-1build1 [33,1 kB]
+Get:51 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libproc-simple-perl all 1.32-1 [16,9 kB]
+Get:52 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libsort-naturally-perl all 1.03-1 [13,7 kB]
+Get:53 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 libwww-mechanize-perl all 1.75-1 [86,8 kB]
+Get:54 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libxml-namespacesupport-perl all 1.11-1 [13,2 kB]
+Get:55 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libxml-sax-base-perl all 1.07-1 [21,5 kB]
+Get:56 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libxml-sax-perl all 0.99+dfsg-2ubuntu1 [64,6 kB]
+Get:57 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libxml-libxml-perl amd64 2.0123+dfsg-1build1 [316 kB]
+Get:58 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libxml-sax-expat-perl all 0.40-2 [11,5 kB]
+Get:59 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libxml-simple-perl all 2.22-1 [65,0 kB]
+Get:60 http://br.archive.ubuntu.com/ubuntu xenial-updates/universe amd64 perlmagick all 8:6.8.9.9-7ubuntu5.9 [13,2 kB]
+Get:61 http://br.archive.ubuntu.com/ubuntu xenial/universe amd64 shutter all 0.93.1-1ubuntu1 [1.413 kB]
+Get:62 http://br.archive.ubuntu.com/ubuntu xenial/main amd64 libgd-perl amd64 2.53-2.1 [162 kB]
+Fetched 5.417 kB in 1s (4.013 kB/s)
+Selecting previously unselected package libbonobo2-common.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 333899 files and directories currently installed.)
+Preparing to unpack .../libbonobo2-common_2.32.1-3_all.deb ...
+Unpacking libbonobo2-common (2.32.1-3) ...
+Selecting previously unselected package liborbit-2-0:amd64.
+Preparing to unpack .../liborbit-2-0_1%3a2.14.19-1build1_amd64.deb ...
+Unpacking liborbit-2-0:amd64 (1:2.14.19-1build1) ...
+Selecting previously unselected package libbonobo2-0:amd64.
+Preparing to unpack .../libbonobo2-0_2.32.1-3_amd64.deb ...
+Unpacking libbonobo2-0:amd64 (2.32.1-3) ...
+Selecting previously unselected package libglade2-0:amd64.
+Preparing to unpack .../libglade2-0_1%3a2.6.4-2_amd64.deb ...
+Unpacking libglade2-0:amd64 (1:2.6.4-2) ...
+Selecting previously unselected package libgnomecanvas2-common.
+Preparing to unpack .../libgnomecanvas2-common_2.30.3-2_all.deb ...
+Unpacking libgnomecanvas2-common (2.30.3-2) ...
+Selecting previously unselected package libgnomecanvas2-0:amd64.
+Preparing to unpack .../libgnomecanvas2-0_2.30.3-2_amd64.deb ...
+Unpacking libgnomecanvas2-0:amd64 (2.30.3-2) ...
+Selecting previously unselected package libgnomevfs2-common.
+Preparing to unpack .../libgnomevfs2-common_1%3a2.24.4-6.1ubuntu1_amd64.deb ...
+Unpacking libgnomevfs2-common (1:2.24.4-6.1ubuntu1) ...
+Selecting previously unselected package libgnomevfs2-0:amd64.
+Preparing to unpack .../libgnomevfs2-0_1%3a2.24.4-6.1ubuntu1_amd64.deb ...
+Unpacking libgnomevfs2-0:amd64 (1:2.24.4-6.1ubuntu1) ...
+Selecting previously unselected package libgnome2-common.
+Preparing to unpack .../libgnome2-common_2.32.1-5ubuntu1_all.deb ...
+Unpacking libgnome2-common (2.32.1-5ubuntu1) ...
+Selecting previously unselected package libgnome-2-0:amd64.
+Preparing to unpack .../libgnome-2-0_2.32.1-5ubuntu1_amd64.deb ...
+Unpacking libgnome-2-0:amd64 (2.32.1-5ubuntu1) ...
+Selecting previously unselected package libgnome2-bin.
+Preparing to unpack .../libgnome2-bin_2.32.1-5ubuntu1_amd64.deb ...
+Unpacking libgnome2-bin (2.32.1-5ubuntu1) ...
+Selecting previously unselected package libgnome2-0:amd64.
+Preparing to unpack .../libgnome2-0_2.32.1-5ubuntu1_amd64.deb ...
+Unpacking libgnome2-0:amd64 (2.32.1-5ubuntu1) ...
+Selecting previously unselected package libbonoboui2-common.
+Preparing to unpack .../libbonoboui2-common_2.24.5-3ubuntu1_all.deb ...
+Unpacking libbonoboui2-common (2.24.5-3ubuntu1) ...
+Selecting previously unselected package libbonoboui2-0:amd64.
+Preparing to unpack .../libbonoboui2-0_2.24.5-3ubuntu1_amd64.deb ...
+Unpacking libbonoboui2-0:amd64 (2.24.5-3ubuntu1) ...
+Selecting previously unselected package libclass-data-inheritable-perl.
+Preparing to unpack .../libclass-data-inheritable-perl_0.08-2_all.deb ...
+Unpacking libclass-data-inheritable-perl (0.08-2) ...
+Selecting previously unselected package libclass-method-modifiers-perl.
+Preparing to unpack .../libclass-method-modifiers-perl_2.11-1_all.deb ...
+Unpacking libclass-method-modifiers-perl (2.11-1) ...
+Selecting previously unselected package libcommon-sense-perl.
+Preparing to unpack .../libcommon-sense-perl_3.74-1build1_amd64.deb ...
+Unpacking libcommon-sense-perl (3.74-1build1) ...
+Selecting previously unselected package libcrypt-openssl-bignum-perl.
+Preparing to unpack .../libcrypt-openssl-bignum-perl_0.06-1build1_amd64.deb ...
+Unpacking libcrypt-openssl-bignum-perl (0.06-1build1) ...
+Selecting previously unselected package libcrypt-openssl-rsa-perl.
+Preparing to unpack .../libcrypt-openssl-rsa-perl_0.28-2build2_amd64.deb ...
+Unpacking libcrypt-openssl-rsa-perl (0.28-2build2) ...
+Selecting previously unselected package libdata-random-perl.
+Preparing to unpack .../libdata-random-perl_0.12-1_all.deb ...
+Unpacking libdata-random-perl (0.12-1) ...
+Selecting previously unselected package libextutils-depends-perl.
+Preparing to unpack .../libextutils-depends-perl_0.405-1_all.deb ...
+Unpacking libextutils-depends-perl (0.405-1) ...
+Selecting previously unselected package libextutils-pkgconfig-perl.
+Preparing to unpack .../libextutils-pkgconfig-perl_1.15-1_all.deb ...
+Unpacking libextutils-pkgconfig-perl (1.15-1) ...
+Selecting previously unselected package libfile-which-perl.
+Preparing to unpack .../libfile-which-perl_1.19-1_all.deb ...
+Unpacking libfile-which-perl (1.19-1) ...
+Selecting previously unselected package libgnome2-canvas-perl.
+Preparing to unpack .../libgnome2-canvas-perl_1.002-3build2_amd64.deb ...
+Unpacking libgnome2-canvas-perl (1.002-3build2) ...
+Selecting previously unselected package libgnome2-gconf-perl.
+Preparing to unpack .../libgnome2-gconf-perl_1.044-5build2_amd64.deb ...
+Unpacking libgnome2-gconf-perl (1.044-5build2) ...
+Selecting previously unselected package libgnomeui-common.
+Preparing to unpack .../libgnomeui-common_2.24.5-3.1_all.deb ...
+Unpacking libgnomeui-common (2.24.5-3.1) ...
+Selecting previously unselected package libgnomeui-0:amd64.
+Preparing to unpack .../libgnomeui-0_2.24.5-3.1_amd64.deb ...
+Unpacking libgnomeui-0:amd64 (2.24.5-3.1) ...
+Selecting previously unselected package libgnome2-vfs-perl.
+Preparing to unpack .../libgnome2-vfs-perl_1.082-1build2_amd64.deb ...
+Unpacking libgnome2-vfs-perl (1.082-1build2) ...
+Selecting previously unselected package libgnome2-perl.
+Preparing to unpack .../libgnome2-perl_1.046-2build1_amd64.deb ...
+Unpacking libgnome2-perl (1.046-2build1) ...
+Selecting previously unselected package libgnome2-wnck-perl.
+Preparing to unpack .../libgnome2-wnck-perl_0.16-3build2_amd64.deb ...
+Unpacking libgnome2-wnck-perl (0.16-3build2) ...
+Selecting previously unselected package libgnomevfs2-extra:amd64.
+Preparing to unpack .../libgnomevfs2-extra_1%3a2.24.4-6.1ubuntu1_amd64.deb ...
+Unpacking libgnomevfs2-extra:amd64 (1:2.24.4-6.1ubuntu1) ...
+Selecting previously unselected package libgoocanvas-common.
+Preparing to unpack .../libgoocanvas-common_1.0.0-1_all.deb ...
+Unpacking libgoocanvas-common (1.0.0-1) ...
+Selecting previously unselected package libgoocanvas3:amd64.
+Preparing to unpack .../libgoocanvas3_1.0.0-1_amd64.deb ...
+Unpacking libgoocanvas3:amd64 (1.0.0-1) ...
+Selecting previously unselected package libgoo-canvas-perl.
+Preparing to unpack .../libgoo-canvas-perl_0.06-2ubuntu1_amd64.deb ...
+Unpacking libgoo-canvas-perl (0.06-2ubuntu1) ...
+Selecting previously unselected package libgtk2-appindicator-perl.
+Preparing to unpack .../libgtk2-appindicator-perl_0.15-1build3_amd64.deb ...
+Unpacking libgtk2-appindicator-perl (0.15-1build3) ...
+Selecting previously unselected package libgtkimageview0.
+Preparing to unpack .../libgtkimageview0_1.6.4+dfsg-1_amd64.deb ...
+Unpacking libgtkimageview0 (1.6.4+dfsg-1) ...
+Selecting previously unselected package libgtk2-imageview-perl.
+Preparing to unpack .../libgtk2-imageview-perl_0.05-2build2_amd64.deb ...
+Unpacking libgtk2-imageview-perl (0.05-2build2) ...
+Selecting previously unselected package libunique-1.0-0.
+Preparing to unpack .../libunique-1.0-0_1.1.6-5_amd64.deb ...
+Unpacking libunique-1.0-0 (1.1.6-5) ...
+Selecting previously unselected package libgtk2-unique-perl.
+Preparing to unpack .../libgtk2-unique-perl_0.05-2ubuntu1_amd64.deb ...
+Unpacking libgtk2-unique-perl (0.05-2ubuntu1) ...
+Selecting previously unselected package libhttp-server-simple-perl.
+Preparing to unpack .../libhttp-server-simple-perl_0.51-1_all.deb ...
+Unpacking libhttp-server-simple-perl (0.51-1) ...
+Selecting previously unselected package libimage-magick-q16-perl.
+Preparing to unpack .../libimage-magick-q16-perl_8%3a6.8.9.9-7ubuntu5.9_amd64.deb ...
+Unpacking libimage-magick-q16-perl (8:6.8.9.9-7ubuntu5.9) ...
+Selecting previously unselected package libimage-magick-perl.
+Preparing to unpack .../libimage-magick-perl_8%3a6.8.9.9-7ubuntu5.9_all.deb ...
+Unpacking libimage-magick-perl (8:6.8.9.9-7ubuntu5.9) ...
+Selecting previously unselected package libjson-perl.
+Preparing to unpack .../libjson-perl_2.90-1_all.deb ...
+Unpacking libjson-perl (2.90-1) ...
+Selecting previously unselected package libtypes-serialiser-perl.
+Preparing to unpack .../libtypes-serialiser-perl_1.0-1_all.deb ...
+Unpacking libtypes-serialiser-perl (1.0-1) ...
+Selecting previously unselected package libjson-xs-perl.
+Preparing to unpack .../libjson-xs-perl_3.010-2build1_amd64.deb ...
+Unpacking libjson-xs-perl (3.010-2build1) ...
+Selecting previously unselected package libmouse-perl.
+Preparing to unpack .../libmouse-perl_2.4.5-1build1_amd64.deb ...
+Unpacking libmouse-perl (2.4.5-1build1) ...
+Selecting previously unselected package libnet-oauth-perl.
+Preparing to unpack .../libnet-oauth-perl_0.28-2_all.deb ...
+Unpacking libnet-oauth-perl (0.28-2) ...
+Selecting previously unselected package libnet-dropbox-api-perl.
+Preparing to unpack .../libnet-dropbox-api-perl_1.9-1_all.deb ...
+Unpacking libnet-dropbox-api-perl (1.9-1) ...
+Selecting previously unselected package libpath-class-perl.
+Preparing to unpack .../libpath-class-perl_0.36-1_all.deb ...
+Unpacking libpath-class-perl (0.36-1) ...
+Selecting previously unselected package libproc-processtable-perl.
+Preparing to unpack .../libproc-processtable-perl_0.53-1build1_amd64.deb ...
+Unpacking libproc-processtable-perl (0.53-1build1) ...
+Selecting previously unselected package libproc-simple-perl.
+Preparing to unpack .../libproc-simple-perl_1.32-1_all.deb ...
+Unpacking libproc-simple-perl (1.32-1) ...
+Selecting previously unselected package libsort-naturally-perl.
+Preparing to unpack .../libsort-naturally-perl_1.03-1_all.deb ...
+Unpacking libsort-naturally-perl (1.03-1) ...
+Selecting previously unselected package libwww-mechanize-perl.
+Preparing to unpack .../libwww-mechanize-perl_1.75-1_all.deb ...
+Unpacking libwww-mechanize-perl (1.75-1) ...
+Selecting previously unselected package libxml-namespacesupport-perl.
+Preparing to unpack .../libxml-namespacesupport-perl_1.11-1_all.deb ...
+Unpacking libxml-namespacesupport-perl (1.11-1) ...
+Selecting previously unselected package libxml-sax-base-perl.
+Preparing to unpack .../libxml-sax-base-perl_1.07-1_all.deb ...
+Unpacking libxml-sax-base-perl (1.07-1) ...
+Selecting previously unselected package libxml-sax-perl.
+Preparing to unpack .../libxml-sax-perl_0.99+dfsg-2ubuntu1_all.deb ...
+Unpacking libxml-sax-perl (0.99+dfsg-2ubuntu1) ...
+Selecting previously unselected package libxml-libxml-perl.
+Preparing to unpack .../libxml-libxml-perl_2.0123+dfsg-1build1_amd64.deb ...
+Unpacking libxml-libxml-perl (2.0123+dfsg-1build1) ...
+Selecting previously unselected package libxml-sax-expat-perl.
+Preparing to unpack .../libxml-sax-expat-perl_0.40-2_all.deb ...
+Unpacking libxml-sax-expat-perl (0.40-2) ...
+Selecting previously unselected package libxml-simple-perl.
+Preparing to unpack .../libxml-simple-perl_2.22-1_all.deb ...
+Unpacking libxml-simple-perl (2.22-1) ...
+Selecting previously unselected package perlmagick.
+Preparing to unpack .../perlmagick_8%3a6.8.9.9-7ubuntu5.9_all.deb ...
+Unpacking perlmagick (8:6.8.9.9-7ubuntu5.9) ...
+Selecting previously unselected package shutter.
+Preparing to unpack .../shutter_0.93.1-1ubuntu1_all.deb ...
+Unpacking shutter (0.93.1-1ubuntu1) ...
+Selecting previously unselected package libgd-perl.
+Preparing to unpack .../libgd-perl_2.53-2.1_amd64.deb ...
+Unpacking libgd-perl (2.53-2.1) ...
+Processing triggers for man-db (2.7.5-1) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Processing triggers for gconf2 (3.2.6-3ubuntu6) ...
+Processing triggers for gnome-menus (3.13.3-6ubuntu3.1) ...
+Processing triggers for desktop-file-utils (0.22-1ubuntu5.1) ...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Processing triggers for bamfdaemon (0.5.3~bzr0+16.04.20160824-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Processing triggers for hicolor-icon-theme (0.15-0ubuntu1) ...
+Setting up libbonobo2-common (2.32.1-3) ...
+Setting up liborbit-2-0:amd64 (1:2.14.19-1build1) ...
+Setting up libbonobo2-0:amd64 (2.32.1-3) ...
+Setting up libglade2-0:amd64 (1:2.6.4-2) ...
+Setting up libgnomecanvas2-common (2.30.3-2) ...
+Setting up libgnomecanvas2-0:amd64 (2.30.3-2) ...
+Setting up libgnomevfs2-common (1:2.24.4-6.1ubuntu1) ...
+Setting up libgnomevfs2-0:amd64 (1:2.24.4-6.1ubuntu1) ...
+Setting up libgnome2-common (2.32.1-5ubuntu1) ...
+Setting up libgnome-2-0:amd64 (2.32.1-5ubuntu1) ...
+Setting up libgnome2-bin (2.32.1-5ubuntu1) ...
+Setting up libgnome2-0:amd64 (2.32.1-5ubuntu1) ...
+Setting up libbonoboui2-common (2.24.5-3ubuntu1) ...
+Setting up libbonoboui2-0:amd64 (2.24.5-3ubuntu1) ...
+Setting up libclass-data-inheritable-perl (0.08-2) ...
+Setting up libclass-method-modifiers-perl (2.11-1) ...
+Setting up libcommon-sense-perl (3.74-1build1) ...
+Setting up libcrypt-openssl-bignum-perl (0.06-1build1) ...
+Setting up libcrypt-openssl-rsa-perl (0.28-2build2) ...
+Setting up libdata-random-perl (0.12-1) ...
+Setting up libextutils-depends-perl (0.405-1) ...
+Setting up libextutils-pkgconfig-perl (1.15-1) ...
+Setting up libfile-which-perl (1.19-1) ...
+Setting up libgnome2-canvas-perl (1.002-3build2) ...
+Setting up libgnome2-gconf-perl (1.044-5build2) ...
+Setting up libgnomeui-common (2.24.5-3.1) ...
+Setting up libgnomeui-0:amd64 (2.24.5-3.1) ...
+Setting up libgnome2-vfs-perl (1.082-1build2) ...
+Setting up libgnome2-perl (1.046-2build1) ...
+Setting up libgnome2-wnck-perl (0.16-3build2) ...
+Setting up libgnomevfs2-extra:amd64 (1:2.24.4-6.1ubuntu1) ...
+Setting up libgoocanvas-common (1.0.0-1) ...
+Setting up libgoocanvas3:amd64 (1.0.0-1) ...
+Setting up libgoo-canvas-perl (0.06-2ubuntu1) ...
+Setting up libgtk2-appindicator-perl (0.15-1build3) ...
+Setting up libgtkimageview0 (1.6.4+dfsg-1) ...
+Setting up libgtk2-imageview-perl (0.05-2build2) ...
+Setting up libunique-1.0-0 (1.1.6-5) ...
+Setting up libgtk2-unique-perl (0.05-2ubuntu1) ...
+Setting up libhttp-server-simple-perl (0.51-1) ...
+Setting up libimage-magick-q16-perl (8:6.8.9.9-7ubuntu5.9) ...
+Setting up libimage-magick-perl (8:6.8.9.9-7ubuntu5.9) ...
+Setting up libjson-perl (2.90-1) ...
+Setting up libtypes-serialiser-perl (1.0-1) ...
+Setting up libjson-xs-perl (3.010-2build1) ...
+Setting up libmouse-perl (2.4.5-1build1) ...
+Setting up libnet-oauth-perl (0.28-2) ...
+Setting up libnet-dropbox-api-perl (1.9-1) ...
+Setting up libpath-class-perl (0.36-1) ...
+Setting up libproc-processtable-perl (0.53-1build1) ...
+Setting up libproc-simple-perl (1.32-1) ...
+Setting up libsort-naturally-perl (1.03-1) ...
+Setting up libwww-mechanize-perl (1.75-1) ...
+Setting up libxml-namespacesupport-perl (1.11-1) ...
+Setting up libxml-sax-base-perl (1.07-1) ...
+Setting up libxml-sax-perl (0.99+dfsg-2ubuntu1) ...
+update-perl-sax-parsers: Registering Perl SAX parser XML::SAX::PurePerl with priority 10...
+update-perl-sax-parsers: Updating overall Perl SAX parser modules info file...
+
+Creating config file /etc/perl/XML/SAX/ParserDetails.ini with new version
+Setting up libxml-libxml-perl (2.0123+dfsg-1build1) ...
+update-perl-sax-parsers: Registering Perl SAX parser XML::LibXML::SAX::Parser with priority 50...
+update-perl-sax-parsers: Registering Perl SAX parser XML::LibXML::SAX with priority 50...
+update-perl-sax-parsers: Updating overall Perl SAX parser modules info file...
+Replacing config file /etc/perl/XML/SAX/ParserDetails.ini with new version
+Setting up libxml-sax-expat-perl (0.40-2) ...
+update-perl-sax-parsers: Registering Perl SAX parser XML::SAX::Expat with priority 50...
+update-perl-sax-parsers: Updating overall Perl SAX parser modules info file...
+Replacing config file /etc/perl/XML/SAX/ParserDetails.ini with new version
+Setting up libxml-simple-perl (2.22-1) ...
+Setting up perlmagick (8:6.8.9.9-7ubuntu5.9) ...
+Setting up shutter (0.93.1-1ubuntu1) ...
+Setting up libgd-perl (2.53-2.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu9) ...
+/sbin/ldconfig.real: /usr/lib/nvidia-375/libEGL.so.1 is not a symbolic link
+
+/sbin/ldconfig.real: /usr/lib32/nvidia-375/libEGL.so.1 is not a symbolic link
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+cheese is already the newest version (3.18.1-2ubuntu3).
+The following packages were automatically installed and are no longer required:
+  account-plugin-twitter checkbox-ng friends friends-dispatcher
+  friends-facebook friends-twitter gir1.2-ebook-1.2 gir1.2-ebookcontacts-1.2
+  gir1.2-edataserver-1.2 gir1.2-gnomebluetooth-1.0 gir1.2-messagingmenu-1.0
+  gir1.2-networkmanager-1.0 gnome-icon-theme-symbolic gstreamer0.10-nice
+  gstreamer0.10-plugins-good gstreamer0.10-pulseaudio gstreamer0.10-x
+  gstreamer1.0-clutter gtk3-engines-unico iproute libavcodec54 libavformat54
+  libavutil52 libbind9-90 libboost-date-time1.54.0 libboost-system1.54.0
+  libcamel-1.2-45 libcdr-0.0-0 libcmis-0.4-4 libcolamd2.8.0 libcolord1
+  libcolorhug1 libcrypt-passwdmd5-perl libdns100 libebackend-1.2-7
+  libebook-1.2-14 libebook-contacts-1.2-0 libedata-book-1.2-20
+  libedataserver-1.2-18 libegl1-mesa-drivers libegl1-mesa-lts-xenial libelfg0
+  libexiv2-12 libfarstream-0.1-0 libfriends0 libgbm1-lts-xenial libgdata13
+  libgee2 libgl1-mesa-dri-lts-xenial libgl1-mesa-glx-lts-xenial
+  libglapi-mesa-lts-xenial libgles2-mesa-lts-xenial libglew1.10 libglewmx1.10
+  libgnome-bluetooth11 libgnome-control-center1 libgnome-desktop-3-7
+  libgphoto2-port10 libgrip0 libgtop2-7 libicu52 libilmbase6 libimobiledevice4
+  libisc95 libisccc90 libisccfg90 libisl10 libllvm3.8v4 liblouis2 liblwres90
+  libmbim-glib0 libminiupnpc8 libmspub-0.0-0 libnl-route-3-200 libopenexr6
+  libopenjpeg2 libopenobex2 liborcus-0.6-0 libparted0debian1 libplist1
+  libpocketsphinx1 libpoppler44 libprotobuf8 libqmi-glib0 libqpdf13
+  libqt5qml-graphicaleffects libqt5sensors5 libqt5webkit5-qmlwebkitplugin
+  libraw9 librhythmbox-core8 libsphinxbase1 libswscale2 libsystemd-daemon0
+  libsystemd-journal0 libsystemd-login0 libt1-5 libthumbnailer0 libts-0.0-0
+  libunityvoice1 libupower-glib1 libusbmuxd2 libvisio-0.0-0 libwpd-0.9-9
+  libwpg-0.2-2 libwps-0.2-2 libx264-142 libxatracker2-lts-xenial libxcb-util0
+  libxtables10 linux-headers-4.4.0-31 linux-headers-4.4.0-31-generic
+  linux-image-4.4.0-31-generic linux-image-extra-4.4.0-31-generic
+  linux-image-generic-lts-xenial linux-signed-image-generic-lts-xenial
+  obex-data-server python-commandnotfound python-dbus-dev python-gconf
+  python-gdbm python-gnomekeyring python-ibus python-libxml2 python-notify
+  python-pexpect python-ptyprocess python-renderpm python-reportlab
+  python-reportlab-accel python-requests python-smbc python3-checkbox-ng
+  qml-module-qtquick-dialogs qml-module-qtquick-localstorage
+  qml-module-qtquick-privatewidgets qml-module-ubuntu-ui-extras-browser
+  qtdeclarative5-dialogs-plugin qtdeclarative5-localstorage-plugin
+  qtdeclarative5-privatewidgets-plugin qtdeclarative5-qtfeedback-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin
+  qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets
+  qtdeclarative5-window-plugin rhythmbox-mozilla sphinx-voxforge-hmm-en
+  sphinx-voxforge-lm-en telepathy-indicator tsconf ubuntu-extras-keyring
+  unity-lens-friends unity-scope-audacious unity-scope-clementine
+  unity-scope-gmusicbrowser unity-scope-gourmet unity-scope-guayadeque
+  unity-scope-musique unity-voice-service xfonts-mathml
+  xserver-xorg-input-evdev-lts-xenial xserver-xorg-input-synaptics-lts-xenial
+  xserver-xorg-input-vmmouse-lts-xenial xserver-xorg-input-wacom-lts-xenial
+  xserver-xorg-video-amdgpu-lts-xenial xserver-xorg-video-ati-lts-xenial
+  xserver-xorg-video-cirrus-lts-xenial xserver-xorg-video-fbdev-lts-xenial
+  xserver-xorg-video-intel-lts-xenial xserver-xorg-video-mach64-lts-xenial
+  xserver-xorg-video-mga-lts-xenial xserver-xorg-video-neomagic-lts-xenial
+  xserver-xorg-video-nouveau-lts-xenial
+  xserver-xorg-video-openchrome-lts-xenial xserver-xorg-video-qxl-lts-xenial
+  xserver-xorg-video-r128-lts-xenial xserver-xorg-video-radeon-lts-xenial
+  xserver-xorg-video-savage-lts-xenial
+  xserver-xorg-video-siliconmotion-lts-xenial
+  xserver-xorg-video-sisusb-lts-xenial xserver-xorg-video-tdfx-lts-xenial
+  xserver-xorg-video-trident-lts-xenial xserver-xorg-video-vesa-lts-xenial
+  xserver-xorg-video-vmware-lts-xenial
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 4 not upgraded.
+---------------------------------------------------------------
