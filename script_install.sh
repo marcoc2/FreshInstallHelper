@@ -38,5 +38,9 @@ add-apt-repository -y ppa:trebelnik-stefina/ubuntu-tweak >> $LOG
 apt-get update >> $LOG
 apt-get install -y ubuntu-tweak >> $LOG
 
+#Numix Icons
+add-apt-repository -y ppa:numix/ppa >> $LOG
+apt-get update >> $LOG
+apt-get install -y numix-icon-theme numix-icon-theme-circle >> $LOG
 
 echo "---------------------------------------------------------------" >> $LOG
