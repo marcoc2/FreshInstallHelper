@@ -19,6 +19,7 @@ apt-get install -y gstreamer0.10-plugins-ugly gstreamer0.10-plugins-ugly-multive
 apt-get install -y nethogs  >> $LOG #mostra no terminal quanto cada processo está utilizando de banda
 apt-get install -y indicator-multiload >> $LOG # Indicador de cpu, ram e rede que fica na barra do gnome
 apt-get install -y gksu >> $LOG # Permite executar aplicativos como super-user fora do terminal
+apt-get install -y gnome-session-flashback >> $LOG # Gnome classic
 
 #PDF Toolkit (pra fazer merge)
 apt-get install -y pdftk  >> $LOG
@@ -31,6 +32,11 @@ apt-get install -y cheese  >> $LOG
 
 ### Latex ###
 #apt-get install texlive-fonts-recommended texlive-fonts-extra latex209-bin latex-beamer
+
+#Ubuntu Tweak
+add-apt-repository ppa:trebelnik-stefina/ubuntu-tweak >> $LOG
+apt-get update >> $LOG
+apt-get install -y ubuntu-tweak >> $LOG
 
 
 echo "---------------------------------------------------------------" >> $LOG
