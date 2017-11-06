@@ -34,7 +34,7 @@ apt-get install -y cheese  >> $LOG
 #apt-get install texlive-fonts-recommended texlive-fonts-extra latex209-bin latex-beamer
 
 #Ubuntu Tweak
-add-apt-repository ppa:trebelnik-stefina/ubuntu-tweak >> $LOG
+add-apt-repository -y ppa:trebelnik-stefina/ubuntu-tweak >> $LOG
 apt-get update >> $LOG
 apt-get install -y ubuntu-tweak >> $LOG
 
